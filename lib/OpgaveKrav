@@ -1,0 +1,41 @@
+Krav til opgaven:
+- Alt data til scrumboarded skal hentes fra en database/cloud, #anbefaldet firebase#
+- Alle databladene skal gemmes lokalt på enheden og læses op i en liste
+- Databladene skal kunne opdateres med f.eks "assigned to" medlem
+- Databladene i scrumboarded skal kunne flyttes rundt fra f.eks "in progess" til "done",
+som en drag and drop funktion.
+- Der skal bruges push notifikationer således at scrummaster får besked ved vigtige
+hændelser, så som en opgave er færdig, eller er voldsom forsinket eller lignende..
+- Brugeren skal have besked fra systemet, hvis brugeren er ved at lave noget
+uhensigtsmæssigt, som f.eks at flytte et datablad fra "done" til "backlo" eller lignende,
+eller hvis brugeren ønsker at slette et datablad.
+- Det skal være muligt at starte på et en helt frisk tavle, og intuitivt gå i gang med at
+sætte datablade på.
+- App’en skal være responsiv i både landscape og portrait visning
+- Koden skal som altid dokumenteres på engelsk og tilfredsstillende!
+- Husk 3-lagsmodellen!
+Ønskelige features:
+- Det vil være en klar bedring hvis alt datakommunikation er krypteret mellem app og
+backend.
+- Det vil være en klar forbedring hvis scrummasteren kan se burndown for projektet
+- Det vil være en klar forbedring hvis scrummaster kan følge velocity for både teamet
+og det enkelte teammedlem.
+- Det vil være en klar forbedring hvis boardet kan håndtere mere end ét projekt ad
+gangen, men så de respektive projekters data naturligvis ikke blandes sammen.
+
+
+
+ekstra krav skal minimum bruge web api
+
+2. Eleven kan programmere en appløsning, der kan kommunikere med andre apps på
+enheden ved f.eks. at opdatere en kontakt, sende en SMS/Mail, hente GPS-data, eller
+modtage og sende push notifikationer.
+3. Eleven kan programmere en appløsning med threads/callback metoder med det formål
+at udføre parallelle/asynkrone opgaver.
+4. Eleven kan gennem en test dokumentere funktionaliteten i en udviklet appløsning.
+5. Eleven kan programmere en appløsning, der kan kommunikere med eksterne
+datakilder, så som databaseserver, web API o.l.
+6. Eleven kan redegøre for mulige sikkerhedsproblemer når en app skal kommunikere
+med eksterne datakilder og tage højde for disse i forbindelse med udvikling af en
+appløsning ved f.eks. at kryptere.
+14. Eleven kan programmere asynkrone server services i forbindelse med web API.
