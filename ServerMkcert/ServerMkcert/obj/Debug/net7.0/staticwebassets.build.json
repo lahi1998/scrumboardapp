@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WQI4PtwxfxhNpGul+7/iet0rEw5au44r5XFMBXf58Bk=",
+  "Source": "ServerMkcert",
+  "BasePath": "_content/ServerMkcert",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
